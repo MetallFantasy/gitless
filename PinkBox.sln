@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinkBox", "PinkBox.csproj", "{7FFC6C52-B402-42A4-8D8D-9EEF963F5458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FFC6C52-B402-42A4-8D8D-9EEF963F5458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFC6C52-B402-42A4-8D8D-9EEF963F5458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFC6C52-B402-42A4-8D8D-9EEF963F5458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFC6C52-B402-42A4-8D8D-9EEF963F5458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE99FE0-2CEC-4571-9973-1B91D72B3D46}
+	EndGlobalSection
+EndGlobal
